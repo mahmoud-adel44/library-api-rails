@@ -1,0 +1,8 @@
+ar:
+  success_action: "تم بنجاح"
+  unauthorized: 'غير مصرح'
+  failed_action: "هناك خطأ ما"
+  un_verifyed_email: "بريد إلكتروني لم يتم التحقق منه"
+  errors:
+    unauthorized: 'غير مصرح'
+    un_verifyed_email: "بريد إلكتروني لم يتم التحقق منه"

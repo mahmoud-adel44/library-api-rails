@@ -1,0 +1,8 @@
+en:
+  success_action: "This Action Done Successfully"
+  failed_action: "Some thing went wrong"
+  unauthorized: 'Unauthorized'
+  un_verifyed_email: "UnVerifyed Email"
+  errors:
+    unauthorized: 'Unauthorized'
+    un_verifyed_email: "UnVerifyed Email"

@@ -1,0 +1,26 @@
+# == Schema Information
+#
+# Table name: users
+#
+#  id                :bigint           not null, primary key
+#  name              :string           not null
+#  email             :string           not null
+#  password_digest   :string           not null
+#  email_verified_at :datetime
+#  created_at        :datetime         not null
+#  updated_at        :datetime         not null
+#
+
+one:
+  name: MyString
+  email: MyString
+  password_digest: MyString
+  email_verified_at: 2023-07-04 11:51:48
+  confirmation_token: MyString
+
+two:
+  name: MyString
+  email: MyString
+  password_digest: MyString
+  email_verified_at: 2023-07-04 11:51:48
+  confirmation_token: MyString
